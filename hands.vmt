@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_hitman/player/hands"
+	"$bumpmap" "models/props_hitman/player/hands_bumpmap"
+}
