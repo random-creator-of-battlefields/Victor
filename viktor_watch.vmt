@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_hitman/player/viktor_watch"
+	"$bumpmap" "models/props_hitman/player/viktor_watch_bumpmap"
+
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.6 0.6 0.6]"
+}
